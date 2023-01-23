@@ -1,0 +1,32 @@
+.table {
+  width: 55%;
+  margin-left: 50px;
+  background-color: #fff;
+  color: blue;
+  margin-top: 20px;
+}
+
+table {
+  width: 60%;
+  height: 50%;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  margin: 10px;
+  padding: 0.5rem;
+}
+
+td {
+  width: 60%;
+  height: 50%;
+  border-top: 1px solid #000;
+  margin: 10px;
+  padding: 0.5rem;
+}
+h1 {
+  font-size: 25px;
+  text-align: center;
+}
+
+.action-btn {
+  background-color: blanchedalmond;
+}

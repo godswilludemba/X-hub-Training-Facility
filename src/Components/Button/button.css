@@ -1,0 +1,15 @@
+.button {
+  width: 8rem;
+  height: 2rem;
+  background-color: red;
+  border-radius: 0.5rem;
+  border: 0.1rem solid bisque;
+  color: #fff;
+  cursor: pointer;
+  justify-content: center;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: darkred;
+}
