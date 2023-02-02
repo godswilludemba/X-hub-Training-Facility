@@ -40,12 +40,12 @@ form {
 }
 
 .action-btn {
-  width: 6rem;
+  width: 4rem;
   height: 2rem;
   justify-content: center;
   text-align: center;
   background-color: darkred;
-  padding: 0.5rem 0;
+  padding: 0.4rem 0;
   margin-left: 0.5rem;
   border-radius: 0.5rem;
   color: #fff;

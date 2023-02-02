@@ -13,3 +13,11 @@
 .button:hover {
   background-color: darkred;
 }
+
+.remove {
+  border: 0;
+  background-color: white;
+  text-align: right;
+  font-weight: 700;
+  flex: 0 0 20px;
+}

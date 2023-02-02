@@ -56,7 +56,7 @@ const BodyWrapper = styled.div`
   align-items: center;
   overflow: hidden;
   width: 100%;
-  height: 55vh;
+  height: 56vh;
   max-width: 1284px;
   margin: auto;
   gap: 2rem;
@@ -72,7 +72,7 @@ const BodyWrapper = styled.div`
     padding: 0.5rem;
     background-color: #fff;
     width: 100%;
-    height: 94%;
+    height: 90%;
     position: relative;
 
     h1 {

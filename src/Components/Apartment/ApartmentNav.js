@@ -23,7 +23,7 @@ const ApartmentNav = () => {
 export default ApartmentNav;
 
 const NavWrapper = styled.div`
-  height: 5rem;
+  height: 4rem;
   background-color: #74c0fc;
   display: flex;
   justify-content: center;
